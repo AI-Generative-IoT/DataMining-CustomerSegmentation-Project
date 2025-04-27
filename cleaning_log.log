@@ -179,3 +179,21 @@
 2025-04-27 13:21:03,713 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-04-27 13:21:55,015 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-04-27 13:21:55,015 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-27 16:23:18,957 - Original dataset shape: (541909, 8)
+2025-04-27 16:27:05,623 - Missing values before handling: {'InvoiceNo': 0, 'StockCode': 0, 'Description': 1454, 'Quantity': 0, 'InvoiceDate': 0, 'UnitPrice': 0, 'CustomerID': 135080, 'Country': 0}
+2025-04-27 16:27:06,662 - Shape after handling missing values: (541797, 9)
+2025-04-27 16:27:10,277 - Dropped 0 positive qty cancellations and 1239 negative qty non-cancellations
+2025-04-27 16:27:12,964 - Dropped 2759 non-product transactions
+2025-04-27 16:27:14,927 - Shape after removing zero/negative UnitPrice: (536649, 10)
+2025-04-27 16:29:20,698 - Original dataset shape: (541909, 8)
+2025-04-27 16:29:37,410 - Missing values before handling: {'InvoiceNo': 0, 'StockCode': 0, 'Description': 1454, 'Quantity': 0, 'InvoiceDate': 0, 'UnitPrice': 0, 'CustomerID': 135080, 'Country': 0}
+2025-04-27 16:29:38,210 - Shape after handling missing values: (541797, 9)
+2025-04-27 16:29:45,460 - Dropped 0 positive qty cancellations and 1239 negative qty non-cancellations
+2025-04-27 16:29:48,796 - Dropped 2759 non-product transactions
+2025-04-27 16:29:51,660 - Shape after removing zero/negative UnitPrice: (536649, 10)
+2025-04-27 16:30:14,695 - Resolved 9 customers with multiple countries
+2025-04-27 16:30:29,397 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-27 16:30:29,397 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-27 16:30:29,446 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-27 16:30:40,114 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-27 16:30:40,130 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
