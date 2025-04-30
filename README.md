@@ -1,8 +1,4 @@
 ---
-noteId: "efaeaff0253611f09dd75bb7d528fe58"
-tags: []
-
----
 
 # Unveiling Retail Dynamics: "Mining Predictive Insights and Customer Segmentation from Online Retail Data"
 
