@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+missingno
+geopandas
+tensorflow
+keras
+openpyxl
+nbformat
