@@ -10,4 +10,7 @@ This study investigates online retail dynamics by integrating customer segmentat
 
 💡 The results demonstrate that combining unsupervised segmentation with supervised learning provides a powerful and scalable framework for customer value prediction, CRM optimization, and data-driven marketing strategies in e-commerce environments. The proposed approach is both scientifically grounded and practically deployable, offering actionable insights for customer retention, personalization, and revenue maximization.  
 
-🔑 Keywords: Customer Segmentation, RFM Analysis, K-Means Clustering, Predictive Modeling, E-Commerce Analytics, Machine Learning, Customer Value Prediction.  
+🔑 Keywords: Customer Segmentation, RFM Analysis, K-Means Clustering, Predictive Modeling, E-Commerce Analytics, Machine Learning, Customer Value Prediction.
+
+🏷️ About Contributors  
+Interested contributors may submit ideas to ejp@krealix.de. Discussion and short lectures can be arranged at https://calendly.com/alexej-schelle/.  
